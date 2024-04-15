@@ -1,0 +1,5 @@
+env
+data/training/
+data/validate/
+model
+cnn.rar
